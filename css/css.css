@@ -10,7 +10,7 @@
 }
 
 .header .search {
-    border: 1px solid;
+   
 }
 
 .header .search {
@@ -98,7 +98,7 @@
     width: 285px;
     height:400px;
     float: left;
-    background-color: red;
+
 }
 
 .apply-panel .icon-phone {
@@ -108,7 +108,7 @@
     margin-left: 287px;
     overflow: hidden;
     height: 400px;
-    background-color: red;
+   
 }
 
 .apply .apply-panel h2{
